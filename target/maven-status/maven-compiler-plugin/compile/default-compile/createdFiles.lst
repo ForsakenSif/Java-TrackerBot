@@ -1,0 +1,8 @@
+io\proj3ct\SpringEduBot\model\Cards.class
+io\proj3ct\SpringEduBot\model\UserRepository.class
+io\proj3ct\SpringEduBot\model\CardsRepository.class
+io\proj3ct\SpringEduBot\service\TelegramBot.class
+io\proj3ct\SpringEduBot\config\BotInitializer.class
+io\proj3ct\SpringEduBot\SpringEduBotApplication.class
+io\proj3ct\SpringEduBot\model\User.class
+io\proj3ct\SpringEduBot\config\BotConfig.class
